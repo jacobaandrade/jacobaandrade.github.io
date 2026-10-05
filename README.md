@@ -2,6 +2,10 @@
 # System Health Monitor
 A short description of what the project does and who it is for
 
+## Features
+Overheating Warning
+Space Remaining Warking
+
 ## Installation
 Steps to install and run project
 
